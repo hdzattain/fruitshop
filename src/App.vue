@@ -25,4 +25,7 @@ export default {
   margin-top: 60px;
 }
 </style>
+<<<<<<< HEAD
 
+=======
+>>>>>>> ce273dc... fruitshop
